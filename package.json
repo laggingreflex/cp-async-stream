@@ -1,0 +1,11 @@
+{
+  "name": "cp-async-stream",
+  "version": "0.0.0",
+  "description": "Child process's stdout/stderr as async iterator",
+  "main": "index.js",
+  "repository": "laggingreflex/cp-async-stream",
+  "dependencies": {
+    "merge-async-iterators": "^0.2.1",
+    "streams-to-async-iterator": "^0.4.0"
+  }
+}
