@@ -1,6 +1,6 @@
 {
   "name": "cp-async-stream",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Child process's stdout/stderr as async iterator",
   "main": "index.js",
   "repository": "laggingreflex/cp-async-stream",
